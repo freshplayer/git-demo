@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hello master22222
-=======
-hello,fkisknfkfkmfkf
-222222
-
->>>>>>> hot-fix
+hello.txt 2222
+hello.txt
