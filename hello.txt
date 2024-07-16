@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello master22222
+=======
+hello,fkisknfkfkmfkf
+222222
+
+>>>>>>> hot-fix
